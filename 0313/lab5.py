@@ -1,0 +1,6 @@
+print("안녕하세요?")
+name = input("이름이어떻게되시나요? ")
+print("만나서반갑습니다. "+ name + "씨")
+print("이름의길이는다음과같군요:", len(name))
+age = int(input("나이가어떻게되나요? "))
+print("내년이면"+ str(age+1) + "이되시는군요.")
