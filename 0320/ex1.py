@@ -1,0 +1,5 @@
+x = int(input("첫번째수="))
+y = int(input("두번째수="))
+max_value = (x if x > y else y)
+min_value = (y if x > y else x)
+print("큰수=", max_value, "작은수=", min_value)
