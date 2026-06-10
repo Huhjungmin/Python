@@ -1,1 +1,0 @@
-result = (age >= 25) and (salary >= 3500)
